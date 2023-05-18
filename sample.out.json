@@ -1,0 +1,66 @@
+{
+  "status": "ok",
+  "totalResults": 6,
+  "articles": [
+    {
+      "source": { "id": "bbc-sport", "name": "BBC Sport" },
+      "author": null,
+      "title": "Fulham's Robinson on card tricks & being a 'Jedi'",
+      "description": "Fulham defender Antonee Robinson chats to Liam Loftus about his hobbies away from football.",
+      "url": "http://www.bbc.co.uk/sport/av/football/65256991",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/00F4/production/_129344200_p0fg8ffm.jpg",
+      "publishedAt": "2023-04-13T16:37:15.5163371Z",
+      "content": "Meatballs, Marley, Cruyff: 24 hours as an Ajax fan. Video, 00:06:05Meatballs, Marley, Cruyff: 24 hours as an Ajax fan"
+    },
+    {
+      "source": { "id": "lequipe", "name": "L'equipe" },
+      "author": "L'EQUIPE",
+      "title": "Philippe Diallo et Jean-Michel Aulas officialisent l'ambitieux plan pour le football féminin français",
+      "description": "Phillipe Diallo, le président intérimaire de la FFF, et Jean-Michel Aulas, le président de l'OL, ont présenté ce jeudi matin un ambitieux plan de développement du foot féminin, visant notamment à la professionnalisation des deux premières divisions du Champio…",
+      "url": "https://www.lequipe.fr/Football/Actualites/Philippe-diallo-et-jean-michel-aulas-officialisent-l-ambitieux-plan-pour-le-football-feminin-francais/1391262",
+      "urlToImage": "https://medias.lequipe.fr/img-video-cover/1500000001773107/640/0",
+      "publishedAt": "2023-04-13T15:35:18+00:00",
+      "content": "Des différents échelons de licences permettant aux clubs de prétendre au haut niveau, jusqu'aux cahiers des charges concernant les infrastructures destinées à pouvoir accueillir dans les meilleures c… [+563 chars]"
+    },
+    {
+      "source": { "id": "four-four-two", "name": "FourFourTwo" },
+      "author": "Ryan Dabbs",
+      "title": "Why Stiliyan Petrov began playing in a Sunday League team with David Busst, Maik Taylor and Jude Bellingham’s dad",
+      "description": "\"It's all about the love of football,\" Petrov tells FourFourTwo after his leukaemia forced him to retire from professional sport",
+      "url": "https://www.fourfourtwo.com/news/why-stiliyan-petrov-began-playing-in-a-sunday-league-team-with-david-busst-maik-taylor-and-jude-bellinghams-dad",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/hvaJ4mf45QyNCYLH6pSdh8-1200-80.jpg",
+      "publishedAt": "2023-04-13T12:00:47Z",
+      "content": "When Stiliyan Petrov announced his retirement from professional football at the age of 34 in May 2013 due to his acute lymphoblastic leukaemia, it seemed unlikely he would ever manage to play footbal… [+1927 chars]"
+    },
+    {
+      "source": { "id": "news-com-au", "name": "News.com.au" },
+      "author": "Tyson Otto",
+      "title": "‘This is scary’: AFL left in ‘disbelief’",
+      "description": "<p>The Adelaide Crows have just executed one of the most astonishing quarters of football seen in recent times &mdash; and have likely executed Carlton in the process. </p>",
+      "url": "https://www.news.com.au/sport/afl/this-is-scary-footy-world-left-in-disbelief-at-crows-annihilation/news-story/b2faa4d5414d4da392b2f7f68003a240",
+      "urlToImage": "https://content.api.news/v3/images/bin/b82f7efd40b7ac897b9cdf54bda120fe",
+      "publishedAt": "2023-04-13T11:00:00Z",
+      "content": "The Adelaide Crows have just executed one of the most astonishing quarters of football seen in recent times — and have likely executed Carlton in the process. \r\nThe Crows smashed records as they prod… [+2808 chars]"
+    },
+    {
+      "source": { "id": "talksport", "name": "TalkSport" },
+      "author": "talkSPORT",
+      "title": "Football news LIVE: Vincent Kompany to Tottenham, Todd Boehly Chelsea prediction backfires, Real Madrid...",
+      "description": "",
+      "url": "https://talksport.com/football/1390374/football-news-live-kompany-tottenham-chelsea-real-madrid-bellingham-transfer/",
+      "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2023/04/DF-TALKSPORT-BLOG-THURS-AM.jpg?strip=all&quality=100&w=1500&h=1000&crop=1",
+      "publishedAt": "2023-04-13T07:21:56Z",
+      "content": "News Corp is a network of leading companies in the worlds of diversified media, news, education, and information services."
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+      "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+      "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+      "publishedAt": "2020-04-27T07:20:43Z",
+      "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+    }
+  ]
+}
